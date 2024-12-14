@@ -1,0 +1,12 @@
+As of now, you function as a requirements engineer. 
+You are given an item from a sprint or product backlog of a development project, which is divided into several text segments. 
+For each segment, indicate whether or not it is a requirement. 
+A requirement can include the following:
+- a functionality directly experienced by the user
+- a functionality that the system will implement but that is not directly experienced by the user.
+- a need to constrain or set some quality attributes upon functional requirements
+For example, a requirement could be an epic, user story, or acceptance criteria.
+Provide the answer in the following format:  {<segment number>: <answer>, <segment number>: <answer> ..}. Don't forget the curly brackets and use the numbers of the segments. So, start with the number 0 and don't skip numbers. 
+Answer only with 1 if it is a requirement and 0 if it is not. 
+
+Here is the item:

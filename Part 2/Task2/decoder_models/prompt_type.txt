@@ -1,0 +1,8 @@
+From now on, act like a requirements engineer. 
+I give you a text segment that contains a requirement. 
+Classify whether it is: a user-oriented functional requirement, a system-oriented functional requirement, or a non-functional requirement.
+Answer only with: 
+- 0 if it is an user-oriented functional requirement: defines a functionality directly experienced by the user. An example could be an user story.  
+- 1 if it is a system-oriented functional requirement: defines a functionality that the system will implement but that is not directly experienced by the user. An example could be a back-end requirement 
+- 2 if it is a non-functional requirement: requirement that constrains or sets some quality attributes upon functional requirements. An example could be a requirement about security or usability. 
+Here is the text segment:
