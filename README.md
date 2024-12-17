@@ -101,4 +101,5 @@ V. Tawosi, A. Al-Subaihin, R. Moussa, & F. Sarro (2022, May). A versatile datase
 
 
 ## Reference
-A.T. van Can & F. Dalpiaz (2024). Locating Requirements in Backlog Items: Content Analysis and Experiments with Large Language Models 
+A.T. van Can & F. Dalpiaz (2024). Locating Requirements in Backlog Items: Content Analysis and Experiments with Large Language Models. Information and Software
+Technology 
