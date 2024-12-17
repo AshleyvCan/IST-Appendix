@@ -37,7 +37,7 @@ For each combination (type x granularity) we tagged (see the schema in the `codi
 This folder consists of material related to RQ2. This folder contains three subfolders.
 
 ### Main folder.
-The main folder contains `convert_items_type.ipynb`, `label_data.py` and the `Figure A - example segmentation.pdf`, 
+The main folder contains `convert_items_type.ipynb`, `label_data.py` and the `Figure A - example segmentation.pdf`. 
 The pdf file `Figure A - example segmentation.pdf` provides an example of how the segmentation process is performed.
 The file `label_data.py` uses the data from part 1 (the raw tags and original samples), segments the items and links the raw tags to each segment. This results in a file `segments_final.xlsx`, in which each row represents a segment with columns indicating whether it contains a particular tag (1 or 0 per category).
 The file `convert_items_type.ipynb` converts the multiple tag columns to a single tag column for the classification task. It can export it to an Excel file named: `segments_types_final.xlsx`.
