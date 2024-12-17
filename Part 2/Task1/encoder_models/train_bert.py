@@ -35,8 +35,8 @@ if __name__ == "__main__":
     
     """
 
-    #datafile = '..\..\segments_final.xlsx'
-    datafile = '..\..\segments_balanced.xlsx'
+    datafile = '..\..\segments_final.xlsx'
+    #datafile = '..\..\segments_balanced.xlsx'
     
     tokenizer = BertTokenizer.from_pretrained('bert-base-cased')
     labels = {0:0,

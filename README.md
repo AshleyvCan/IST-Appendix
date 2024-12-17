@@ -8,11 +8,11 @@ This folder contains material related to RQ1.
 The notebook `get_results.ipynb` presents the results based on the datasets produced by the files in the subfolder `tagged data`. This notebook generates the following files:
  `RQ1.1.xlsx`, `RQ1.2a.xlsx`, `RQ1.2b.xlsx`,  `RQ1.2c.xlsx`, `RQ1.3.xlsx`. 
 
-`RQ1.1.xlsx` presents the raw data of table 3
-`RQ1.2a.xlsx` contains the data of table 4
-`RQ1.2a.xlsx` contains the data of table 5
-`RQ1.2a.xlsx` contains the data of table 6
-`RQ1.3.xlsx` reports the raw data of table 7
+- `RQ1.1.xlsx` presents the raw data of table 3
+- `RQ1.2a.xlsx` contains the data of table 4
+- `RQ1.2a.xlsx` contains the data of table 5
+- `RQ1.2a.xlsx` contains the data of table 6
+- `RQ1.3.xlsx` reports the raw data of table 7
 
 This notebook utilizes the file `two_codes_per_req - OSS.xlsx` to produce one of the result tables. The Excel file contains the number of text segments tagged with two different codes/categories (per project).
 
