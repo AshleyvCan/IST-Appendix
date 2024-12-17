@@ -46,7 +46,7 @@ The file `convert_items_type.ipynb` converts the multiple tag columns to a singl
 This subfolder contains the file `sample_data.ipynb`. This file uses the files `segments_final.xlsx` and `segments_types_final.xlsx` in the main directory and creates two balanced datasets `segments_balanced.xlsx` and `segments_types_balanced.xlsx` for identifying and classifying requirements, respectively.
 
 
-### Subsubfolder: Task1
+### Subfolder: Task1
 This subfolder contains the material related to Task 1. It contains two subfolders `decoder_models` and `encoder_models`.
 
 #### Main Folder
