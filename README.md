@@ -95,10 +95,10 @@ The root directory contains the files `train_bert_type.py`, `train_roberta_type.
 
 
 ## Reference to data
-Montgomery, L., Lüders, C., & Maalej, W. (2022, May). An alternative issue tracking dataset of public jira repositories. In Proceedings of the 19th International Conference on Mining Software Repositories (pp. 73-77).
+L. Montgomery, C. Lüders, & W. Maalej (2022, May). An alternative issue tracking dataset of public jira repositories. In Proceedings of the 19th International Conference on Mining Software Repositories (pp. 73-77).
 
-Tawosi, V., Al-Subaihin, A., Moussa, R., & Sarro, F. (2022, May). A versatile dataset of agile open source software projects. In Proceedings of the 19th International Conference on Mining Software Repositories (pp. 707-711).
+V. Tawosi, A. Al-Subaihin, R. Moussa, & F. Sarro (2022, May). A versatile dataset of agile open source software projects. In Proceedings of the 19th International Conference on Mining Software Repositories (pp. 707-711).
 
 
 ## Reference
-van Can, A.T. & Dalpiaz, F (2024). Locating Requirements in Backlog Items: Content Analysis and Experiments with Large Language Models 
+A.T. van Can & F. Dalpiaz (2024). Locating Requirements in Backlog Items: Content Analysis and Experiments with Large Language Models 
