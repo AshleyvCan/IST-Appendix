@@ -10,8 +10,8 @@ The notebook `get_results.ipynb` presents the results based on the datasets prod
 
 - `RQ1.1.xlsx` presents the raw data of table 3
 - `RQ1.2a.xlsx` contains the data of table 4
-- `RQ1.2a.xlsx` contains the data of table 5
-- `RQ1.2a.xlsx` contains the data of table 6
+- `RQ1.2b.xlsx` contains the data of table 5
+- `RQ1.2c.xlsx` contains the data of table 6
 - `RQ1.3.xlsx` reports the raw data of table 7
 
 This notebook utilizes the file `two_codes_per_req - OSS.xlsx` to produce one of the result tables. The Excel file contains the number of text segments tagged with two different codes/categories (per project).
